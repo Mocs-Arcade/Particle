@@ -1,9 +1,0 @@
-[metadata]
-name = "Particle"
-authors = ["Zach Bianucci"]
-creation_date = "September 14th, 2014"
-
-[config]
-img_path = "particle-logo.png"
-exec_path = "Particle.jar"
-scores_path = "highScore.csv"
